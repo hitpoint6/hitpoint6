@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hitpoint6
-- 👀 I’m interested in building web application. https://walnuteducation.com/
-- 🌱 I’m currently learning algorithm
-- 💞️ I’m looking to collaborate on building mobile and web apps.
+- 👋 Hi, I’m Guanghui
+- 👀  I am a full-stack app builder who is proficient in using Python, specifically Django, and Javascript, particularly React. Recently, I have become very passionate about creating AI and large language models applications. I am also experienced in scaling up distributed systems during my time at Meta's Data Infra team. 
+- 🌱 I’m currently learning LLM and AI.
+- 💞️ I’m looking to Looking forward to collaborating with you on exciting projects!
 - 📫 How to reach me hitpoint6@gmail.com
 
 <!---
