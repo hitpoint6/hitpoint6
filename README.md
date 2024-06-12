@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kelvin
-- 👀  I am experienced in Python, Distributed System, Huggingface, LLM Inferences, OpenAI.
-- 💞️ I’m looking to Looking forward to collaborating with you on exciting projects!
+- 👀 Interested in building AI / ML stuff, like inference, agents
 - 📫 How to reach me hitpoint6@gmail.com
 
 <!---
