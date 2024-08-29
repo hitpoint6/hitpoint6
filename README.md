@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kelvin
-- 👀 Interested in building AI / ML stuff, like inference, agents
+- 👀 Interested in building AI / ML stuff, like data, inference, agents
 - 📫 How to reach me hitpoint6@gmail.com
 
 <!---
